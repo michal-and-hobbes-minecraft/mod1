@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "mod1",
+    "name": "Mod1",
+    "description": "Michal and Hobbes like Minecraft!",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": [
+      "Papa", "Michal (hopefully)", "Hobbes (hopefully)"
+    ],
+    "credits": "Thanks to everyone everywhere for making the world weird",
+    "logoFile": "assets/mod1/logos/mod1_logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
